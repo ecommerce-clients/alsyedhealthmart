@@ -1,0 +1,1 @@
+var SubDomain = 'alsyedhealthmart'; var SiteID = '0AF9BB80-3A58-412A-98C4-40A289337531'; var host = 'https://api.eraconnect.net';
